@@ -4,3 +4,11 @@ video{
 	min-width: 100%;
 	min-height: 100%;
 }
+
+
+@media (max-width:500px) {
+
+	video{
+		min-width:800%;
+		min-height:800%;
+	}
